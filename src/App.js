@@ -6,7 +6,7 @@ import Form from "./Form";
 
 function App() {
   
-  const url = "https://cars-backend-bp.herokuapp.com/cars";
+  const url = "https://cars-backend-bp.herokuapp.com";
 
   const [cars, setCars] = React.useState([])
 
